@@ -10,6 +10,11 @@ def contar_palabras(lista):
             frecuencias[palabra] = 1 # Error 3: Sintaxis incorrecta
     return frecuencias
 
+
+a = 10
+b = 5
+suma =a+b 
+print(suma)
 # Llamada a la función (no tocar esta parte, debe funcionar con la corrección)
 resultado = contar_palabras(lista_ejemplo)
 print(resultado)
