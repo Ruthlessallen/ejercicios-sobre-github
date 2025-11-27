@@ -17,6 +17,8 @@ suma =a+b
 print(suma)
 resta = a-b
 print(resta)
+
+print(a*b)
 # Llamada a la función (no tocar esta parte, debe funcionar con la corrección)
 resultado = contar_palabras(lista_ejemplo)
 print(resultado)
